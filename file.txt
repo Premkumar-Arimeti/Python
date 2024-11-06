@@ -1,0 +1,7 @@
+Hello how are you/n
+Give me the things in step by step manner that I should learn to be able to finish this task.
+"In Python, develop a report application in python dash for a team:
+1)Raw data available in amazon s3 bucket. using the athena query engine
+2)To train on the onsite backend to publish python dash web apps.
+3)The goal is to aggregate and make some calculation on lab results of consumables produced on new prototype manufacturing lines.
+4)finally finalize user acceptance test(in word) scripts.
